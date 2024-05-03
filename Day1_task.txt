@@ -1,0 +1,11 @@
+HTTP 1.1 loads the resource one after another where else HTTP2 use TCP connections to send multiple stream of data at once
+
+In HTTP1.1 Fi one resource cannot be loaded, it will block all other resource on contrast HTTP2 able to send other resource even-though any it resource were failed. 
+
+
+
+Object are more complex and contain any primitive data type as well as references data type
+syntax to set the object
+objectname.propertyname = ’value’;
+syntax to call the object 
+objectname.propertyname
