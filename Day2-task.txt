@@ -1,0 +1,13 @@
+Main different Window manages browser interactions, while Document acts as an interface 
+for content manipulation.
+
+Document Object
+Its serves as an interface for interacting with the web page’s content.
+The browser generates a Document Object Model of a web page upon loading it.
+
+Window Object
+
+The window object, supported by all browsers, represents the browser’s
+window and automatically includes global JavaScript objects, functions, and variables as members.
+
+
